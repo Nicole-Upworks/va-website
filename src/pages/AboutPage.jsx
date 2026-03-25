@@ -7,7 +7,7 @@ import BackToTop from "../components/BackToTop";
 import logo from "../assets/logo1.png";
 import ceoImage from "../assets/ceo-ramy.jpeg";
 import amaniyImage from "../assets/amaniy.jpeg";
-import nicoImage from "../assets/nico.jpeg";
+import nicoImage from "../assets/nicole.png";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 35 },
@@ -336,7 +336,7 @@ export default function AboutPage() {
                 <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-emerald-200/20 to-lime-100/20 blur-2xl" />
                 <img
                   src={nicoImage}
-                  alt="Nico Paolo Taruc - Business Development Representative and Social Media Director of Eminence VA Solutions"
+                  alt="Nicole Manaloto - Business Development Representative and Social Media Director of Eminence VA Solutions"
                   className="relative mx-auto h-[520px] w-[420px] rounded-2xl border border-white/60 object-cover object-top shadow-xl"
                 />
               </motion.div>

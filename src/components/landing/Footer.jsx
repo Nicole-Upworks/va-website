@@ -209,7 +209,7 @@ export default function Footer() {
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/"
+                  href="https://www.linkedin.com/company/eminence-virtual-assistance-solutions"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
