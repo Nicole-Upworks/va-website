@@ -2,10 +2,10 @@ import { useEffect, useMemo, useState } from "react";
 import { Menu, X } from "lucide-react";
 import { Link, NavLink, useLocation, useNavigate } from "react-router-dom";
 
-import logo from "../../assets/logo1.png"; 
+import logo from "../../assets/logo1.png";
 
 const navLinks = [
-  { label: "Home", href: "/" },   
+  { label: "Home", href: "/" },
   { label: "Services", href: "#services" },
   { label: "About", href: "/about" },
   // { label: "Use Cases", href: "#usecases" },

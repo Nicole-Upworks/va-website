@@ -301,30 +301,29 @@ export default function AboutPage() {
             <div className="grid gap-12 md:grid-cols-2 md:items-center">
               <motion.div variants={fadeLeft}>
                 <span className="mb-4 inline-flex items-center rounded-full bg-emerald-600 px-3 py-1 text-xs font-bold uppercase tracking-widest text-white">
-                  Business Development Representative & Social Media Director
+                  Chief Technology Officer & Social Media Director
                 </span>
 
                 <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
-                  Nico Paolo Taruc
+                  Nicole Manaloto
                 </h2>
 
                 <p className="mt-6 leading-relaxed text-slate-600">
-                  Nico Paolo Taruc serves as the Business Development
-                  Representative and Social Media Director of Eminence VA
-                  Solutions. As Business Development Representative, Nico
-                  identifies growth opportunities, builds relationships with
-                  prospective clients, supports outreach efforts, and helps move
-                  leads through the sales pipeline with professionalism and
-                  consistency.
+                  Nicole Manaloto serves as the Chief Technology Officer
+                  and Social Media Director of Eminence VA Solutions.
+                  In this role, he leads the company’s digital infrastructure,
+                  oversees website development and technical operations,
+                  and ensures seamless system performance.
                 </p>
 
                 <p className="mt-4 leading-relaxed text-slate-600">
-                  As Social Media Director, Nico oversees content direction,
-                  platform presence, digital engagement, and brand consistency
-                  across social channels. This role supports both business
-                  growth and market visibility by helping Eminence VA Solutions
-                  connect with the right audience and maintain a strong online
-                  presence.
+                  As Social Media Director, Nicole leads the strategic planning
+                  and execution of the brand’s online presence. He manages content development,
+                  strengthens visibility across platforms, drives audience interaction,
+                  and ensures a cohesive brand identity throughout all digital channels.
+                  Through this role, he plays a key part in expanding business reach,
+                  increasing brand awareness, and positioning Eminence VA Solutions
+                  to effectively engage its target market.
                 </p>
               </motion.div>
 
